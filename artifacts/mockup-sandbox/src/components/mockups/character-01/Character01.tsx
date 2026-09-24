@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
-const IMAGE_BASE = "/images";
+// const IMAGE_BASE = "/images";
+const IMAGE_BASE = `${import.meta.env.BASE_URL}images`;
 
 type Tone = "paper" | "night" | "blush";
 
