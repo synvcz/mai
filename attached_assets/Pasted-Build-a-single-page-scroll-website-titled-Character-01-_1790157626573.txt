@@ -1,0 +1,437 @@
+Build a single-page scroll website titled “Character / 01 — Why Her”, centered entirely around Mai Sakurajima from Rascal Does Not Dream of Bunny Girl Senpai.
+
+The website is a personal visual essay about why I chose Mai Sakurajima over every other fictional character.
+
+This should not feel like an objective argument that Mai is universally the “best girl.” It should feel like my own journey of choosing her: what first caught my attention, what made me stay, what I discovered about her, and why she eventually became the character I connected with most.
+
+The central question throughout the website is:
+
+“Why did I choose her?”
+
+Visual Direction
+
+Create a sophisticated, cinematic character-study website inspired by premium product films and contemporary art direction.
+
+Do not use fashion-editorial aesthetics. This is not a fashion campaign or magazine spread.
+
+Alternate between soft silver-grey / ivory environments and near-black sections.
+
+The visual language should be quiet, elegant, restrained, introspective, and emotional without becoming melodramatic.
+
+Use enormous negative space, subtle gradients, delicate film grain, precise typography, and carefully composed anime artwork.
+
+Mai should remain the visual center of the entire experience, but the story being told is my relationship with the character, not an objective character analysis.
+
+The website should feel like an interactive personal film about a choice.
+
+---
+
+Hero — Why Her
+
+Open with a nearly empty silver-grey environment.
+
+Place a large cinematic portrait of Mai Sakurajima floating within the space, slightly off-center.
+
+Keep the composition extremely minimal.
+
+Tiny uppercase monospace metadata sits in the corners:
+
+"CHARACTER / 01"
+"MAI SAKURAJIMA"
+"A PERSONAL STUDY"
+
+Large, heavy, tightly tracked typography appears gradually:
+
+“Why her.”
+
+Below it:
+
+“Out of everyone, I chose her.”
+
+As the user begins scrolling, the image subtly moves while the typography remains almost perfectly still.
+
+The opening should immediately establish that this is my choice, not a universal ranking.
+
+---
+
+Chapter 01 — The First Impression
+
+Transition into a near-black section.
+
+Keep Mai isolated within a huge field of negative space.
+
+Headline:
+
+“Something / caught my attention.”
+
+Small caption:
+
+I had never met Mai before. There were countless other characters I could have noticed instead. But something about her made me stop and pay attention.
+
+It might have been her presence, her expressions, her personality, or simply the feeling she gave me when she first appeared.
+
+The important part is that she was the one who made me want to keep watching.
+
+Tiny corner labels:
+
+"01 / FIRST IMPRESSION"
+"THE BEGINNING"
+"SOMETHING STAYED"
+
+Let the next section slowly slide over this one.
+
+---
+
+Chapter 02 — What I Found
+
+Transition back into a pale silver-grey environment.
+
+Show a close cinematic portrait emphasizing Mai's expression.
+
+Headline:
+
+“Then I / got to know her.”
+
+Caption:
+
+The more I saw of Mai, the more I realized that what initially caught my attention wasn't the whole reason I liked her.
+
+Her confidence, humor, sarcasm, kindness, independence, and vulnerability gradually became part of the picture.
+
+What started as interest became attachment.
+
+Use subtle annotations:
+
+"02 / DISCOVERY"
+"PERSONALITY"
+"CHARACTER"
+"CONNECTION"
+
+---
+
+Chapter 03 — Not Just Her Appearance
+
+Move into a near-black environment.
+
+Place Mai alone against a huge empty composition.
+
+Headline:
+
+“It wasn't / just how she looked.”
+
+Caption:
+
+Mai is beautiful, and that was certainly part of my first impression.
+
+But appearance alone could never explain why I chose her.
+
+What kept me interested was everything underneath it: the way she speaks, the way she thinks, the way she treats people, the way she hides vulnerability behind confidence, and the way she remains herself.
+
+Technical labels:
+
+"03 / BEYOND APPEARANCE"
+"PERSONALITY"
+"INDEPENDENCE"
+
+---
+
+Chapter 04 — The Contrast
+
+Transition into a softer, dimly lit environment.
+
+Use a more emotionally expressive image of Mai.
+
+Headline:
+
+“The more I saw, / the more there was.”
+
+Caption:
+
+Mai isn't just confident.
+
+She can be vulnerable.
+
+She isn't just sarcastic.
+
+She can be incredibly caring.
+
+She isn't simply independent.
+
+She can also allow herself to rely on someone she trusts.
+
+These contrasts are part of what made her feel like more than a collection of traits to me.
+
+They made her feel like Mai.
+
+Keep this section visually restrained.
+
+No excessive effects.
+
+No dramatic particles.
+
+Just the image, typography, and space.
+
+---
+
+Chapter 05 — Why I Stayed
+
+Create a sequence of smaller cinematic fragments.
+
+Use carefully cropped images and subtle transitions.
+
+Explore the moments and qualities that gradually made Mai more important to me:
+
+- Her expressions
+- Her teasing
+- Her composure
+- Her acting career
+- Her quiet everyday moments
+- Her vulnerability
+- Her kindness
+- Her interactions with Sakuta
+- The small moments that became memorable
+
+Each fragment receives a tiny monospace label:
+
+"THE EXPRESSION"
+"THE PAUSE"
+"THE SARCASM"
+"THE KINDNESS"
+"THE MEMORY"
+
+Allow the fragments to appear gradually as the user scrolls.
+
+The section should communicate that I didn't choose Mai because of one moment. The choice accumulated over time.
+
+---
+
+Chapter 06 — Why Her, Not Someone Else
+
+Return to a bright silver-grey section.
+
+Show Mai alone again, surrounded by substantial negative space.
+
+Headline:
+
+“There were / other characters.”
+
+Caption:
+
+There are countless characters who are funny, beautiful, intelligent, kind, interesting, or emotionally compelling.
+
+I could have chosen someone else.
+
+There isn't a single trait that belongs exclusively to Mai.
+
+What made the difference was how all of those qualities came together in her, and how that particular combination resonated with me.
+
+Then reveal:
+
+“I didn't choose her because no one else was worth choosing.”
+
+Follow with:
+
+“I chose her because she became the one who meant the most to me.”
+
+Metadata:
+
+"06 / THE CHOICE"
+"COUNTLESS CHARACTERS"
+"ONE CHARACTER"
+
+---
+
+Chapter 07 — With Him
+
+Transition into a near-black section.
+
+Show Mai and Sakuta together in a cinematic composition, while keeping Mai visually dominant.
+
+Headline:
+
+“And then / there was him.”
+
+Caption:
+
+My connection with Mai is also tied to the story she exists in.
+
+Her relationship with Sakuta showed me more sides of her: her trust, teasing, honesty, vulnerability, affection, and willingness to let someone close without losing herself.
+
+Present their relationship as something that helped me understand why Mai resonated with me, rather than making the entire website about romance.
+
+Keep it intimate but understated.
+
+Metadata:
+
+"07 / CONNECTION"
+"TRUST"
+"SINCERITY"
+
+---
+
+Chapter 08 — Why Her
+
+Slowly transition back into near-black.
+
+Bring together visual motifs from every previous chapter.
+
+Fragments of earlier portraits appear briefly around a central image of Mai.
+
+Headline:
+
+“So why her?”
+
+Pause here.
+
+Give the user a moment of visual silence.
+
+Then reveal:
+
+“Because it was never just one thing.”
+
+Below it, display several words one at a time:
+
+"FIRST IMPRESSION"
+"PERSONALITY"
+"CONFIDENCE"
+"INDEPENDENCE"
+"VULNERABILITY"
+"KINDNESS"
+"SINCERITY"
+"MEMORY"
+
+Let the words fade into one another rather than appearing as a conventional list.
+
+Then reveal:
+
+“It was the way all of it became her.”
+
+---
+
+Final Section — My Choice
+
+End on a completely near-black full-width block.
+
+After a long moment of negative space, reveal:
+
+“Why her.”
+
+Pause.
+
+Then:
+
+“Because there were so many others.”
+
+Thin horizontal rule.
+
+Then:
+
+“But she was the one I chose.”
+
+Keep this section extremely minimal.
+
+No additional imagery at first.
+
+After the text appears, slowly reveal one final portrait of Mai.
+
+Let it remain on screen for several seconds.
+
+Final Metadata
+
+Under the final statement, place three tiny monospace captions horizontally:
+
+"01 / FIRST IMPRESSION"
+"02 / CONNECTION"
+"03 / CHOICE"
+
+Footer
+
+Finish with a thin silver-grey footer strip.
+
+Display:
+
+"CHARACTER / 01"
+"MAI SAKURAJIMA"
+"WHY HER"
+"A PERSONAL STUDY"
+"© 2026"
+
+---
+
+Typography
+
+Use a heavy modern sans-serif for all major headlines.
+
+Headlines should be extremely large, tightly tracked, and carefully positioned.
+
+Supporting copy should remain small and understated.
+
+Use a monospace uppercase font for chapter numbers, metadata, annotations, and technical captions.
+
+Maintain a strict hierarchy:
+
+1. Cinematic headline
+2. Personal supporting paragraph
+3. Tiny metadata
+
+The writing should consistently use a personal first-person perspective where appropriate.
+
+Do not write as though the website is proving that Mai is objectively superior to other characters.
+
+Do not use decorative anime fonts.
+
+---
+
+Motion
+
+Make scrolling feel like moving through a slow personal character film.
+
+- Pin major artwork while the surrounding text changes
+- Let each chapter slide over the previous chapter
+- Use subtle parallax on artwork
+- Slowly scale portraits during transitions
+- Fade typography in and out
+- Allow annotations to drift slightly
+- Use long, smooth easing
+- Create deliberate moments of visual silence
+- Let important statements appear slowly rather than all at once
+
+Avoid flashy anime effects, particle systems, excessive blur, bouncing elements, or conventional website animations.
+
+The motion should feel reflective rather than energetic.
+
+---
+
+Overall Feel
+
+The final website should feel like a personal cinematic reflection on choosing one fictional character among countless others.
+
+Quiet.
+
+Cinematic.
+
+Minimal.
+
+Personal.
+
+Introspective.
+
+A little melancholic.
+
+Never cluttered.
+
+The central idea should gradually become clear:
+
+I didn't choose Mai because she is objectively better than every other character.
+
+I chose her because something about her resonated with me in a way no other character did.
+
+The entire website should gradually answer one simple question:
+
+Why her?
+
+And the final answer should not be a list.
+
+It should be a choice:
+
+“Because, out of everyone, she became the one I chose.”
