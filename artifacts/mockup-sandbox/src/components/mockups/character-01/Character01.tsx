@@ -5,6 +5,30 @@ const IMAGE_BASE = `${import.meta.env.BASE_URL}images`;
 
 type Tone = "paper" | "night" | "blush";
 
+const preloadImages = [
+  "character-01-mai-face-cutout.png",
+  "character-01-mai-face.png",
+  "character-01-mai-front-cutout.png",
+  "character-01-mai-front.png",
+  "character-01-mai-google-01.jpg",
+  "character-01-mai-google-02.jpg",
+  "character-01-mai-google-03.jpg",
+  "character-01-mai-google-04.jpg",
+  "character-01-mai-google-05.jpg",
+  "character-01-mai-side-cutout.png",
+  "character-01-mai-side.png",
+  "character-01-sakura-bg.jpg",
+  "character-01-torii-bg.jpg",
+  "mai-close.png",
+  "mai-hero.png",
+  "mai-sakuta.png",
+];
+
+preloadImages.forEach((filename) => {
+  const img = new Image();
+  img.src = `${import.meta.env.BASE_URL}images/${filename}`;
+});
+
 const chapters = [
   {
     number: "01",
@@ -1189,8 +1213,8 @@ export function Character01() {
       <section className="hero" aria-labelledby="hero-title">
         <div className="hero-stage">
           <header className="character-topline character-mono">
-            <span>CHARACTER / 01</span>
-            <span>MAI SAKURAJIMA<br />A PERSONAL STUDY</span>
+            <span>WHY HER / 01</span>
+            <span>MAI SAKURAJIMA<br /></span>
           </header>
           <div className="hero-ring" aria-hidden="true" />
           <img
