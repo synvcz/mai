@@ -29,12 +29,5 @@ catalog:
   wouter: ^3.3.5
   zod: ^3.25.76
 
-autoInstallPeers: false
-
-  "@esbuild-kit/esm-loader": "npm:tsx@^4.21.0"
-  esbuild: "0.28.2"
-  # orval pins js-yaml to an exact version older than the CVE fix (>=4.3.2)
-  js-yaml: '4.3.2'
-
 allowBuilds:
   esbuild: false
