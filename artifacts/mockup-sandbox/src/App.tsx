@@ -19,27 +19,27 @@ function resolveComponent(
   );
 }
 
-function Character01() {
+function Mai() {
   const [Component, setComponent] = useState<ComponentType | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const loader =
       discoveredModules[
-        "./components/mockups/character-01/Character01.tsx"
+        "./components/mockups/Mai/Mai.tsx"
       ];
 
     if (!loader) {
-      setError("Character01 component could not be found.");
+      setError("Mai component could not be found.");
       return;
     }
 
     loader()
       .then((mod) => {
-        const component = resolveComponent(mod, "Character01");
+        const component = resolveComponent(mod, "Mai");
 
         if (!component) {
-          setError("Character01 component could not be resolved.");
+          setError("Mai component could not be resolved.");
           return;
         }
 
@@ -167,7 +167,7 @@ function App() {
     );
   }
 
-  return <Character01 />;
+  return <Mai />;
 }
 
 export default App;

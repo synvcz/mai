@@ -1167,7 +1167,7 @@ function Chapter({
   );
 }
 
-export function Character01() {
+export function Mai() {
   const [progress, setProgress] = useState(0);
   const [answerWord, setAnswerWord] = useState(rotatingWords[0]);
 
